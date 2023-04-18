@@ -184,11 +184,16 @@ h2{
 }
 .container{
     width: auto;
+    margin:0px;
+    border-radius:0px;
 }
 .footer-section{
     width:auto;
     flex-wrap: wrap;
-    align-items: center;
+    text-align: center;
    
+}
+.section{
+    text-align: center;
 }
 }
